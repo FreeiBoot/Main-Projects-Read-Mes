@@ -6,7 +6,8 @@ Notes:
 3. OpeniBoot does boot but its the .3 version meaning newer kernels UUUUGH
 4. If it boots ill be suprised
 # Will Be Working On
-M3. IPT 4G
-M4. ATV 2G 
-Note: Still wondering how that'll work on the ATV, maybe try Google TV? will be last...
-M2. IPHONE 4
+1. IPHONE 4 M2
+2. IPT 4G M3
+3. ATV 2G M4
+4. Note: Still wondering how that'll work on the ATV, maybe try Google TV? will be last...
+
