@@ -11,3 +11,4 @@ Notes:
 3. ATV 2G M4
 4. Note: Still wondering how that'll work on the ATV, maybe try Google TV? will be last...
 5. Note 2: Definitely not Google TV as the source code doesnt exist no more, and also it requires 1gb of ram while the ATV only has like what? 256mb? i seriously dont know how regular android is going to work, i dont even know why they did the ATV to begin with
+6. say hi to stinky rat for me friend
